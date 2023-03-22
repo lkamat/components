@@ -1,5 +1,5 @@
 # Set a plain language title for the site.
-title: USWDS Page Templates
+title: Components
 
 # Write a short description for the site. This is used for "meta description."
 description: A library of page templates using the U.S. Web Design System for both web and Figma
@@ -17,7 +17,7 @@ github: [metadata]
 theme: null
 
 # Enable for live hosting on GitHub Pages
-baseurl: /uswds-page-templates
+baseurl: /components
 
 # Define a folder for collections
 collections_dir: content
